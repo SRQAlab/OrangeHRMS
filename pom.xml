@@ -32,7 +32,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							TestNG suite XML files
-							<suiteXmlFile>testng2.xml</suiteXmlFile>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
 						</suiteXmlFiles>
 						<!-- <forkMode>never</forkMode> -->
 						<properties>
